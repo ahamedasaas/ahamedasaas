@@ -31,7 +31,7 @@
 ## Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,android,blender,ps,gcp&theme=light" />
+  <img src="https://skillicons.dev/icons?i=unity,blender,ps,gcp&theme=light" />
 </p>
 
 ---
