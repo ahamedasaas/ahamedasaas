@@ -34,20 +34,6 @@
   <img src="https://skillicons.dev/icons?i=unity,blender,ps,gcp&theme=light" />
 </p>
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=ahamedasaas&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img width="47%" src="https://streak-stats.demolab.com?user=ahamedasaas&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahamedasaas&bg_color=ffffff&color=000000&line=000000&point=555555&area=true&hide_border=true" />
-</p>
-
----
 
 ## About Me
 
