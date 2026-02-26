@@ -28,10 +28,10 @@
 
 ---
 
-## Tools
+## Tools & IDEs
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=VS code,figma,blender,gcp&theme=light" />
+  <img src="https://skillicons.dev/icons?i=idea,vscode,androidstudio,blender,gcp&theme=light" />
 </p>
 
 
