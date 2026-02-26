@@ -31,7 +31,7 @@
 ## Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=visual studio code,blender,gcp&theme=light" />
+  <img src="https://skillicons.dev/icons?i=figma,blender,gcp&theme=light" />
 </p>
 
 
