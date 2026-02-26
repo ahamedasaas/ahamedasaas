@@ -23,7 +23,7 @@
 ## Languages & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,angular,cs,react,kotlin,figma,sass,mongodb,spring,java&theme=light&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,angular,cs,react,kotlin,figma,sass,spring,java&theme=light&perline=7" />
 </p>
 
 ---
