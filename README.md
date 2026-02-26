@@ -8,7 +8,7 @@
 # Welcome to the Profile of **Ahamed Asaas**
 
 <!-- Typing Effect in White -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=Junior+Intern+SE+%7C+CS+%7C+AAI+Student;Software+Engineer+Intern;Full+Stack+Developer;Always+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=Junior+Intern+SE+%7C+CS+%7C+AAI+Student;Software+Engineer+Intern;Junior+Full+Stack+Developer;Always+Learning" />
 
 ---
 
